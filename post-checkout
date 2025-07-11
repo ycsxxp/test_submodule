@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "touch a file gotit !"
+
+touch /tmp/gotit
